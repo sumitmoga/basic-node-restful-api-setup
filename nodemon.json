@@ -1,0 +1,6 @@
+{
+    "env": {
+        "Mongo_Atlas_Pw": "Your-DB-Paasword",
+        "JWT_KEY": "Your-SECRET"
+    }
+}
